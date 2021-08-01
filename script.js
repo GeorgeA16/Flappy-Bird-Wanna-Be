@@ -4,6 +4,8 @@ const RADIUS = 15;
 
 const JUMPING_SPEED = 5;
 
+// Commit comment :D
+
 let y;
 let velocity;
 let speed;
