@@ -6,4 +6,6 @@ Those are simple ideas that may be used to improve the game development.
 <li>add a <b>config.ini</b> file for setting up the jumping button (or a drop down selector) and resolution</li>
 <li>refactor the code for further development</li>
 <li>add graphics</li>
+<li>add the p5.js library to the repo</li>
 </ul>
+
